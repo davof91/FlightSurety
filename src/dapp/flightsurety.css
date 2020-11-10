@@ -1,0 +1,58 @@
+html {
+    height: 100%;
+  }
+  
+body {
+     /* background-image: url('flight.jpg'); 
+    background-repeat: no-repeat;
+    background-size: cover;
+    Source: iStockPhoto */
+    background-color: white;
+    height: 80%;
+}
+
+.anyClass {
+    height:150px;
+    overflow-y: scroll;
+  }
+
+.container2 {
+    margin-top: 80px; 
+    height: 100%;
+    opacity: 0.8;
+
+}
+
+.rows {
+    background-color: #000;
+    color: #fff;
+}
+
+.top-20 {
+    margin-top: 20px;
+}
+
+h5 {
+    color: #999999;
+}
+
+section {
+    margin-bottom: 50px;
+}
+
+.field {
+    font-weight: bold;
+    text-align: right;
+}
+
+.field-value {
+    color: #0e7fa8;
+}
+
+label.form {
+    font-size: 14px;
+    margin-right: 20px;
+}
+input {
+    margin-right: 30px;
+}
